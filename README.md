@@ -7,7 +7,7 @@ Il s'agit d'une implémentation simple du jeu classique Snake, réalisée en Pyt
 - Contrôles simples et intuitifs.
 - Interface graphique basée sur tkinter.
 - Suivi du score en temps réel.
-- 
+  
 ## Comment jouer :
 - Utilisez les flèches directionnelles pour contrôler le serpent.
 - Mangez la nourriture pour grandir.
